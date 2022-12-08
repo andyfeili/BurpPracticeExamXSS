@@ -12,15 +12,15 @@ location='https://xxx.web-security-academy.net/?find=burpdomxss%22%2C%22test%22%
 
 ## Where exactly you must input your URL information and search parameter information into this script:
 
-1  - the place of the URL LAB:
+1  -- the place of the URL LAB:
 ```
 ?
 ```
-2  - The pace of the exploit URL server:
+2  -- The pace of the exploit URL server:
 ```
 ?
 ```
-3  - Where you must input your search parameter: 
+3  -- Where you must input your search parameter: 
 ```
 ?
 ```
