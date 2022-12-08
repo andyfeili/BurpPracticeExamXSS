@@ -10,7 +10,7 @@ location='https://xxx.web-security-academy.net/?find=burpdomxss%22%2C%22test%22%
 </script>
 ```
 
-# Where exactly you must input your URL information and search parameter information into this script:
+## Where exactly you must input your URL information and search parameter information into this script:
 
 1- the place of the URL LAB:
 ```
